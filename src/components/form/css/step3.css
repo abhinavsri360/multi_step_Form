@@ -1,0 +1,12 @@
+.an-option1, .an-option2, .an-option3, .an-option4, .an-option5, .an-option6 {
+    border: 1px solid grey;
+    padding: 10px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+input[type='checkbox'] {
+    display: none;
+}
+.room1, .room2, .room3, .room4, .room5, .room6 {
+    display: none;
+}

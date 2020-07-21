@@ -1,0 +1,10 @@
+.an-option1, .an-option2, .an-option3, .an-option4 {
+    border: 1px solid grey;
+    padding: 10px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+input[type='radio'] {
+    display: none;
+}

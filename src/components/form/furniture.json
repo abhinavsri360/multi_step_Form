@@ -1,0 +1,47 @@
+[
+    {
+        "index": 1,
+        "Name": "Poliform",
+        "image": "./images/Poliform.jpg"
+    },
+    {
+        "index": 2,
+        "Name": "Christopher Guy",
+        "image": "./images/Christopher-Gut.jpg"
+    },
+    {
+        "index": 3,
+        "Name": "French Heritage",
+        "image": "./images/French-Heritage.jpg"
+    },
+    {
+        "index": 4,
+        "Name": "Theodore Alexander",
+        "image": "./images/Theodore-Alexander.jpg"
+    },
+    {
+        "index": 5,
+        "Name": "Edra",
+        "image": "./images/Edra.jpg"
+    },
+    {
+        "index": 6,
+        "Name": "Henredon",
+        "image": "./images/Henredon.jpg"
+    },
+    {
+        "index": 7,
+        "Name": "Fendi Casa",
+        "image": "./images/Fendi-casa.jpg"
+    },
+    {
+        "index": 8,
+        "Name": "Roche Bobois",
+        "image": "./images/Roche-Robois.jpg"
+    },
+    {
+        "index": 9,
+        "Name": "Restoration Hardware",
+        "image": "./images/Restoration-Hardware.jpg"
+    }
+]

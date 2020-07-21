@@ -1,0 +1,24 @@
+.img1 {
+    background-image: url('../images/banner.jpg');
+    height: 50vh; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.me {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+    display: inline-block;
+    color: #000000;
+    top: 30vh;
+}
+#h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4vw;
+}
+table, th, td {
+    border: 1px solid black;
+  }

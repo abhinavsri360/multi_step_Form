@@ -1,0 +1,17 @@
+.foot {
+    height: 300px;
+    width: 100%;
+    padding: 80px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row1 {
+    padding: 30px;
+}
+a, a:hover {
+    text-decoration: inherit;
+    color: inherit;
+    cursor: pointer;
+}
